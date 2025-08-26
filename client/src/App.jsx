@@ -1,9 +1,16 @@
 import React from "react";
+import Header from "./components/Header";
+import Words from "./components/Words";
+import Speed from "./components/Speed";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="text-center">
-      LionType
+    <div>
+      <Header />
+      <Speed />
+      <Words />
+      <Footer />
     </div>
   )
 }
