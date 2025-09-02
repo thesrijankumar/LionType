@@ -7,9 +7,9 @@ const Footer = () => {
             <h2 className='text-xl text-center text-yellow-400'>LionType</h2>
             <hr className='w-[20%] ml-[170px] text-yellow-200'/>
             <p className='my-2'>
-                LionType is an typing game developed by <a className='text-blue-300' href="https://github.com/thesrijankumar">Srijan Kumar</a> as a fun project
-                using <a href="https://react.dev">React</a> in Frontend & <a href="https://Expressjs.com">Express</a> at Backend. It's basically something similiar to that of monkeyType but with live speed count, because that
-                was missing in monkeyType and I wanted it. So I made one! Simple as that ^_^
+                LionType is an typing game developed by <a className='text-blue-300' href="https://github.com/thesrijankumar">Srijan Kumar</a> from 🇮🇳 as a fun project
+                using <a href="https://react.dev">React</a> & <a href="https://Expressjs.com">Express</a> at Frontedn and Backend respectively.. It's basically something similiar to that of monkeyType but with live speed count, because that
+                was missing in monkeyType and I wanted it. So I just made one myself! ^_^
             </p>
         </div>
         <div>
